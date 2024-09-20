@@ -18,9 +18,9 @@ export const FooterSocialMedia = ({
         <a className="text-gray-500" href={facebookURL}>
           <svg
             fill="currentColor"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            stroke-width="2"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            strokeWidth="2"
             viewBox="0 0 24 24"
             className="w-5 h-5"
           >
@@ -34,9 +34,9 @@ export const FooterSocialMedia = ({
         <a className="text-gray-500 ml-3" href={twitterURL}>
           <svg
             fill="currentColor"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            stroke-width="2"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            strokeWidth="2"
             viewBox="0 0 24 24"
             className="w-5 h-5"
           >
@@ -51,9 +51,9 @@ export const FooterSocialMedia = ({
           <svg
             fill="none"
             stroke="currentColor"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            stroke-width="2"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            strokeWidth="2"
             viewBox="0 0 24 24"
             className="w-5 h-5"
           >
@@ -68,9 +68,9 @@ export const FooterSocialMedia = ({
           <svg
             fill="currentColor"
             stroke="currentColor"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            stroke-width="0"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            strokeWidth="0"
             viewBox="0 0 24 24"
             className="w-5 h-5"
           >

@@ -8,7 +8,7 @@ export type NavBarLinksType = {
 export const Header = () => {
   const links = [
     {
-      href: '/home',
+      href: '/',
       pageName: 'Home',
     },
     {
